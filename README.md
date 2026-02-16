@@ -49,7 +49,7 @@ SAITAP introduces a smart AR/VR-enabled training pipeline:
 
 ---
 
-## 📁 Project Modules
+##  Project Modules
 This repository includes:
 
 * **AR Assistance Module:** Real-time operational overlay system  
