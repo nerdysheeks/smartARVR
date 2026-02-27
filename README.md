@@ -42,7 +42,6 @@ SAITAP introduces a smart AR/VR-enabled training pipeline:
 ## Tech Stack
 * **Mobile Application:** React Native (JavaScript)  
 * **AR/VR Engine:** Unity  
-* **3D Modeling & Design:** Blender  
 * **Machine Learning:** TensorFlow, YOLO  
 * **Backend:** Node.js  
 * **Database:** MongoDB  
