@@ -6,7 +6,7 @@ SAITAP (Smart AR/VR Industrial Training & Assistance Platform) is an immersive i
 ---
 
 ##  The Problem
-Industrial training today still relies heavily on:
+The Industrial training today still relies heavily on:
 - Static manuals and classroom sessions
 - Limited hands-on practice opportunities
 - Language barriers for workers
