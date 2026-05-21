@@ -1,4 +1,4 @@
-# SAITAP – Smart Industrial Training & Assistance Platform 
+# SAITAP – Smart Industrial Training & Assistance platform 
 **Gamified Workforce Training for Safer Industrial Operations**
 
 SAITAP (Smart AR/VR Industrial Training & Assistance Platform) is an immersive industrial training ecosystem that enables workers to learn machine operations through **AI-powered recognition, AR step-by-step guidance, and VR-based simulation labs**. The platform transforms traditional manual-based industrial training into a **safe, interactive, and multilingual digital learning experience**.
